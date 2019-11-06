@@ -1,0 +1,9 @@
+{
+  "app_port": "9000",
+  "db_config":{
+    "data_source" : "root:mysql@123@",
+    "database": "typicode",
+    "album_table" : "album",
+    "photo_table" : "photo"
+  }
+}
